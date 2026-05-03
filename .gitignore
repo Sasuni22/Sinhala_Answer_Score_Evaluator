@@ -6,3 +6,6 @@ node_modules/
 dist/
 build/
 *.log
+data/chroma_db/
+*.sqlite3
+*.bin
