@@ -1,8 +1,3 @@
-"""
-Agent-based architecture for the SinhalaScore AI system.
-Fixed: timeout wrapper, reduced tokens, coverage via keyword matching only,
-       robust JSON extraction with truncation recovery.
-"""
 
 import json
 import re
