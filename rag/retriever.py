@@ -1,6 +1,3 @@
-"""
-RAG Pipeline: Offline retrieval using ChromaDB + sentence-transformers
-"""
 
 import os
 import logging
