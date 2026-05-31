@@ -132,7 +132,7 @@ In `settings` page you can:
 
 ---
 
-## 📝 Notes
+## Notes
 
 - **Fully Offline**: No internet required during evaluation
 - **Fallback Mode**: If Ollama is unavailable, keyword-based scoring is used
