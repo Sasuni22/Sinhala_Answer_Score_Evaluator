@@ -1,4 +1,4 @@
-# SinhalaScore AI 🎯
+# SinhalaScore AI 
 ## Offline Intelligent Sinhala Open-Ended Answer Scorer
 ### Ancient Sri Lanka — Anuradhapura Period | NLP CW-II
 
