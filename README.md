@@ -122,7 +122,7 @@ Student Answer
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 In `settings` page you can:
 - Switch between Ollama models
