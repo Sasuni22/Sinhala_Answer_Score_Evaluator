@@ -1,8 +1,3 @@
-"""
-Question set and marking guides for Ancient Sri Lanka (Anuradhapura Period)
-All questions answered in Sinhala, graded out of 20 marks.
-"""
-
 QUESTIONS = [
     {
         "id": "Q1",
